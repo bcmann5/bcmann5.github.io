@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Maps}
-  - {file: "https://github.com/bcmann5/bcmann5.github.io/blob/master/assets/Resume.pdf", title: Resume}
+  - {title: Resume, url: "https://github.com/bcmann5/bcmann5.github.io/blob/master/assets/Resume.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:Beckymann42@gmail.com"}
