@@ -7,6 +7,6 @@ I created these maps in Stata while working on a history paper to discuss how UI
 ![US Map](/assets/UI1938.png)
 ![US Map](/assets/UI1966.png)
 ![US Map](/assets/UI1985.png)
-![US Map](/assets/UI1995.png)
+#![US Map](/assets/UI1995.png)
 ![US Map](/assets/UI2019.png)
 
