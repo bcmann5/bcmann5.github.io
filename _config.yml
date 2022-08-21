@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Maps}
   - {title: CV, url: "https://github.com/bcmann5/bcmann5.github.io/blob/master/assets/Mann_CV.pdf"}
-  - {title: Resume2, url: "https://github.com/bcmann5/bcmann5.github.io/blob/master/assets/Resume.pdf"}
+  - {title: Resume, url: "https://github.com/bcmann5/bcmann5.github.io/blob/master/assets/Resume.pdf"}
   
   
 
